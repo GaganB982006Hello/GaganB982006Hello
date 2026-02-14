@@ -9,6 +9,16 @@ I am a **Computer Science Engineering** student from **Tamil Nadu, India**. I am
 
 ---
 
+## 🌐 Socials:
+<!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/1047374484388200448) --> 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gaganb.2006)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gagan.b2006)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Gaganb-v5j) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaganb982006/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/@BVenkatesh14041](https://twitter.com/gaganb982006)) 
+
+---
+
 ### 🛠 Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -27,6 +37,7 @@ I am a **Computer Science Engineering** student from **Tamil Nadu, India**. I am
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GaganB982006Hello&show_icons=true&theme=default" alt="Gagan's GitHub Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GaganB982006Hello&layout=compact&theme=default" alt="Top Languages" />
 </p>
+
 ---
 
 ### 🐍 Contribution Snake
