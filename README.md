@@ -46,6 +46,7 @@ I am a **Computer Science Engineering** student from **Tamil Nadu, India**. I am
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GaganB982006/GaganB982006/output/pacman-contribution-graph.svg">
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/GaganB982006/GaganB982006/output/pacman-contribution-graph.svg">
 </picture>
+
 ---
 
 ### 🐍 Contribution Snake
