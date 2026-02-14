@@ -20,12 +20,16 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }} # Added token to fix API issues
 
-      # This step ensures the files are in the dist directory for the deploy step
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      - name: Check for generated files
+        run: ls -la
+
       - name: Move files to dist
-        run: |
-          mkdir -p dist
-          mv pacman-contribution-graph* dist/
+        run: mv pacman-contribution-graph* dist/
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
