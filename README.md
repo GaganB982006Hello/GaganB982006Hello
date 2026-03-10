@@ -40,6 +40,11 @@ I am a **Computer Science Engineering** student from **Tamil Nadu, India**. I am
 
 ---
 
+### GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GaganB982006Hello&theme=dark)](https://git.io/streak-stats)
+
+---
 ### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GaganB982006Hello/GaganB982006Hello/output/github-contribution-grid-snake-dark.svg">
